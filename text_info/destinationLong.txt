@@ -1,0 +1,6 @@
+Moscow-Calcutta : 16
+Omsk-Kobe : 16
+Ankara-Colombo : 18
+Astrakhan-Hanoi : 18
+Khabarovsk-Karachi : 17
+Krasnoyarsk-Singapore : 17
